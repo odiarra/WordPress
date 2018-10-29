@@ -1,0 +1,231 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Equipe for Wordpress\n"
+"POT-Creation-Date: 2014-12-03 12:09+0100\n"
+"PO-Revision-Date: 2014-12-03 12:49+0100\n"
+"Last-Translator: Fredrik Starck <fredrik@starck.nu>\n"
+"Language-Team: Starck Enterprises <fredrik@starck.nu>\n"
+"Language: sv_SE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7beta3\n"
+"X-Poedit-Basepath: G:\\Server\\wptest\\wp-content\\plugins\\equipe-for-"
+"wordpress\\\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: G:\\Server\\wptest\\wp-content\\plugins\\equipe-for-"
+"wordpress\n"
+
+#: G:\Server\wptest\wp-content\plugins\equipe-for-wordpress/admin.php:6
+msgid "Equipe Results"
+msgstr "Equipe Resultat"
+
+#: G:\Server\wptest\wp-content\plugins\equipe-for-wordpress/admin.php:67
+msgid "Settings has been saved."
+msgstr "Inställningarna har sparats."
+
+#: G:\Server\wptest\wp-content\plugins\equipe-for-wordpress/admin.php:70
+msgid "A new fetch job has started in the background."
+msgstr "Data hämtas nu från Equipe i bakgrunden."
+
+#: G:\Server\wptest\wp-content\plugins\equipe-for-wordpress/admin.php:73
+msgid "All results post successfully deleted."
+msgstr "Alla resultatinlägg har raderats."
+
+#: G:\Server\wptest\wp-content\plugins\equipe-for-wordpress/admin.php:76
+msgid "All widget data is now cleared."
+msgstr "All widgetdata är nu raderad."
+
+#: G:\Server\wptest\wp-content\plugins\equipe-for-wordpress/admin_layout.php:3
+msgid "Equipe for Wordpress Settings"
+msgstr "Equipe för Wordpress Inställningar"
+
+#: G:\Server\wptest\wp-content\plugins\equipe-for-wordpress/admin_layout.php:5
+#, php-format
+msgid ""
+"Plugin created by <a href=\"%1$s\">Starck Enterprises</a>. Data fetched from "
+"our friends at <a href=\"%2$s\">Equipe</a>."
+msgstr ""
+"En plugin skapad av <a href=\"%1$s\">Starck Enterprises</a>. Data hämtas från "
+"våra vänner på <a href=\"%2$s\">Equipe</a>."
+
+#: G:\Server\wptest\wp-content\plugins\equipe-for-wordpress/admin_layout.php:11
+msgid "Data sources"
+msgstr "Datakällor"
+
+#: G:\Server\wptest\wp-content\plugins\equipe-for-wordpress/admin_layout.php:14
+msgid "Equipe Club IDs"
+msgstr "Equipe Klubb-ID"
+
+#: G:\Server\wptest\wp-content\plugins\equipe-for-wordpress/admin_layout.php:17
+msgid "You can separate several clubs by comma."
+msgstr "Du kan separera flera klubbar med kommatecken."
+
+#: G:\Server\wptest\wp-content\plugins\equipe-for-wordpress/admin_layout.php:22
+msgid "Rider Licences"
+msgstr "Ryttarlicenser"
+
+#: G:\Server\wptest\wp-content\plugins\equipe-for-wordpress/admin_layout.php:25
+msgid "You can separate several licences by comma."
+msgstr "Du kan separera flera licenser med kommatecken."
+
+#: G:\Server\wptest\wp-content\plugins\equipe-for-wordpress/admin_layout.php:30
+msgid "Publish results posts"
+msgstr "Skapa resultatinlägg"
+
+#: G:\Server\wptest\wp-content\plugins\equipe-for-wordpress/admin_layout.php:31
+msgid ""
+"When a competition is finished where riders from selected data sources was "
+"placed, a post will be created with the results from that competition."
+msgstr ""
+"När en tävling är avslutad där ryttare från markerade datakällor tog "
+"placeringar, kommer ett inlägg att skapas med resultatet från tävlingen."
+
+#: G:\Server\wptest\wp-content\plugins\equipe-for-wordpress/admin_layout.php:32
+msgid ""
+"Below you can select what category these posts will be posted in. Select None "
+"to deactivate a discipline."
+msgstr ""
+"Nedan kan du välja vilken kategori dessa inlägg kommer att postas i. Välj "
+"Ingen om du vill inaktivera en disciplin."
+
+#: G:\Server\wptest\wp-content\plugins\equipe-for-wordpress/admin_layout.php:35
+msgid "Show Jumping"
+msgstr "Hoppning"
+
+#: G:\Server\wptest\wp-content\plugins\equipe-for-wordpress/admin_layout.php:38
+#: G:\Server\wptest\wp-content\plugins\equipe-for-wordpress/admin_layout.php:51
+#: G:\Server\wptest\wp-content\plugins\equipe-for-wordpress/admin_layout.php:64
+#: G:\Server\wptest\wp-content\plugins\equipe-for-wordpress/admin_layout.php:77
+#: G:\Server\wptest\wp-content\plugins\equipe-for-wordpress/admin_layout.php:90
+#: G:\Server\wptest\wp-content\plugins\equipe-for-wordpress/admin_layout.php:103
+#: G:\Server\wptest\wp-content\plugins\equipe-for-wordpress/admin_layout.php:116
+msgid "None"
+msgstr "Ingen"
+
+#: G:\Server\wptest\wp-content\plugins\equipe-for-wordpress/admin_layout.php:48
+msgid "Dressage"
+msgstr "Dressyr"
+
+#: G:\Server\wptest\wp-content\plugins\equipe-for-wordpress/admin_layout.php:61
+msgid "Eventing"
+msgstr "Fälttävlan"
+
+#: G:\Server\wptest\wp-content\plugins\equipe-for-wordpress/admin_layout.php:74
+msgid "Endurance"
+msgstr "Körning"
+
+#: G:\Server\wptest\wp-content\plugins\equipe-for-wordpress/admin_layout.php:87
+msgid "Breeding Evaluation"
+msgstr "Avelsvärdering"
+
+#: G:\Server\wptest\wp-content\plugins\equipe-for-wordpress/admin_layout.php:100
+msgid "Multi"
+msgstr "Multi"
+
+#: G:\Server\wptest\wp-content\plugins\equipe-for-wordpress/admin_layout.php:113
+msgid "Default"
+msgstr "Standard"
+
+#: G:\Server\wptest\wp-content\plugins\equipe-for-wordpress/admin_layout.php:128
+msgid "Save Settings"
+msgstr "Spara inställningar"
+
+#: G:\Server\wptest\wp-content\plugins\equipe-for-wordpress/admin_layout.php:130
+msgid "Fetch from Equipe"
+msgstr "Hämta från Equipe"
+
+#: G:\Server\wptest\wp-content\plugins\equipe-for-wordpress/admin_layout.php:131
+#, php-format
+msgid "Data is fetched on a daily basis. Last fetch was done %s."
+msgstr "Informationen hämtas på en daglig basis. Senaste hämtningen gjordes %s."
+
+#: G:\Server\wptest\wp-content\plugins\equipe-for-wordpress/admin_layout.php:133
+msgid "Run now"
+msgstr "Kör nu"
+
+#: G:\Server\wptest\wp-content\plugins\equipe-for-wordpress/admin_layout.php:135
+msgid "Clear data"
+msgstr "Rensa data"
+
+#: G:\Server\wptest\wp-content\plugins\equipe-for-wordpress/admin_layout.php:137
+msgid "Remove all results posts"
+msgstr "Ta bort alla resultatinlägg"
+
+#: G:\Server\wptest\wp-content\plugins\equipe-for-wordpress/admin_layout.php:137
+#: G:\Server\wptest\wp-content\plugins\equipe-for-wordpress/admin_layout.php:138
+msgid "Are you sure? This cannot be undone."
+msgstr "Är du säker? Detta kan inte ångras."
+
+#: G:\Server\wptest\wp-content\plugins\equipe-for-wordpress/admin_layout.php:138
+msgid "Clear all widget data"
+msgstr "Rensa all widgetdata"
+
+#: G:\Server\wptest\wp-content\plugins\equipe-for-wordpress/equipe.class.php:310
+msgid "Place"
+msgstr "Plats"
+
+#: G:\Server\wptest\wp-content\plugins\equipe-for-wordpress/equipe.class.php:310
+msgid "Rider"
+msgstr "Ryttare"
+
+#: G:\Server\wptest\wp-content\plugins\equipe-for-wordpress/equipe.class.php:310
+msgid "Horse"
+msgstr "Häst"
+
+#: G:\Server\wptest\wp-content\plugins\equipe-for-wordpress/install.php:74
+msgid "Failed to create new tables in the database."
+msgstr "Det gick inte att skapa nya tabeller i databasen."
+
+#: G:\Server\wptest\wp-content\plugins\equipe-for-wordpress/install.php:86
+#, php-format
+msgid ""
+"You need to <a href=\"%1$s\">configure Equipe for Wordpress</a> for it to "
+"work. | <a href=\"%2$s\">Hide Notice</a>"
+msgstr ""
+"Du måste <a href=\"%1$s\">konfigurera Equipe för Wordpress</a> för att det "
+"ska fungera. | <a href=\"%2$s\">Dölj notis</a>"
+
+#: G:\Server\wptest\wp-content\plugins\equipe-for-wordpress/widget.class.php:9
+msgid "Displays results from Equipe."
+msgstr "Visa resultat från Equipe."
+
+#: G:\Server\wptest\wp-content\plugins\equipe-for-wordpress/widget.class.php:10
+msgid "Results from Equipe"
+msgstr "Resultat från Equipe"
+
+#: G:\Server\wptest\wp-content\plugins\equipe-for-wordpress/widget.class.php:21
+msgid "Number of results:"
+msgstr "Antal resultat som visas:"
+
+#: G:\Server\wptest\wp-content\plugins\equipe-for-wordpress/widget.class.php:25
+msgid "Club ID filter:"
+msgstr "Equipe Klubb-ID:"
+
+#: G:\Server\wptest\wp-content\plugins\equipe-for-wordpress/widget.class.php:29
+msgid "Riders licence filter:"
+msgstr "Ryttarlicenser:"
+
+#: G:\Server\wptest\wp-content\plugins\equipe-for-wordpress/widget.class.php:52
+#, php-format
+msgid "Results from %s"
+msgstr "Resultat från %s"
+
+#: G:\Server\wptest\wp-content\plugins\equipe-for-wordpress/widget.class.php:94
+#: G:\Server\wptest\wp-content\plugins\equipe-for-wordpress/widget.class.php:100
+msgid "th"
+msgstr ":e"
+
+#: G:\Server\wptest\wp-content\plugins\equipe-for-wordpress/widget.class.php:95
+msgid "st"
+msgstr ":a"
+
+#: G:\Server\wptest\wp-content\plugins\equipe-for-wordpress/widget.class.php:96
+msgid "nd"
+msgstr ":a"
+
+#: G:\Server\wptest\wp-content\plugins\equipe-for-wordpress/widget.class.php:97
+msgid "rd"
+msgstr ":e"
